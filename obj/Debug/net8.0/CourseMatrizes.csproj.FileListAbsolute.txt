@@ -1,0 +1,14 @@
+C:\Users\Douglas Muniz\source\repos\CourseMatrizes\CourseMatrizes\bin\Debug\net8.0\CourseMatrizes.exe
+C:\Users\Douglas Muniz\source\repos\CourseMatrizes\CourseMatrizes\bin\Debug\net8.0\CourseMatrizes.deps.json
+C:\Users\Douglas Muniz\source\repos\CourseMatrizes\CourseMatrizes\bin\Debug\net8.0\CourseMatrizes.runtimeconfig.json
+C:\Users\Douglas Muniz\source\repos\CourseMatrizes\CourseMatrizes\bin\Debug\net8.0\CourseMatrizes.dll
+C:\Users\Douglas Muniz\source\repos\CourseMatrizes\CourseMatrizes\bin\Debug\net8.0\CourseMatrizes.pdb
+C:\Users\Douglas Muniz\source\repos\CourseMatrizes\CourseMatrizes\obj\Debug\net8.0\CourseMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas Muniz\source\repos\CourseMatrizes\CourseMatrizes\obj\Debug\net8.0\CourseMatrizes.AssemblyInfoInputs.cache
+C:\Users\Douglas Muniz\source\repos\CourseMatrizes\CourseMatrizes\obj\Debug\net8.0\CourseMatrizes.AssemblyInfo.cs
+C:\Users\Douglas Muniz\source\repos\CourseMatrizes\CourseMatrizes\obj\Debug\net8.0\CourseMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Muniz\source\repos\CourseMatrizes\CourseMatrizes\obj\Debug\net8.0\CourseMatrizes.dll
+C:\Users\Douglas Muniz\source\repos\CourseMatrizes\CourseMatrizes\obj\Debug\net8.0\refint\CourseMatrizes.dll
+C:\Users\Douglas Muniz\source\repos\CourseMatrizes\CourseMatrizes\obj\Debug\net8.0\CourseMatrizes.pdb
+C:\Users\Douglas Muniz\source\repos\CourseMatrizes\CourseMatrizes\obj\Debug\net8.0\CourseMatrizes.genruntimeconfig.cache
+C:\Users\Douglas Muniz\source\repos\CourseMatrizes\CourseMatrizes\obj\Debug\net8.0\ref\CourseMatrizes.dll
